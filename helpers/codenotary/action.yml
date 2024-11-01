@@ -23,7 +23,7 @@ inputs:
 runs:
   using: "composite"
   steps:
-    - uses: home-assistant/actions/helpers/cas@master
+    - uses: tiyicn/actions/helpers/cas@master
       with:
         version: ${{ inputs.version }}
 
