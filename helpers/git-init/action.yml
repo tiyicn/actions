@@ -3,10 +3,10 @@ description: 'GitHub action helper: git-init'
 inputs:
   name:
     required: true
-    default: 'Home Assistant'
+    default: 'yideshi'
   email:
     required: true
-    default: 'hello@home-assistant.io'
+    default: '10000@tiyicn.cn'
   token:
     required: true
 runs:
