@@ -37,7 +37,7 @@ runs:
         fi
 
     - shell: bash
-      run: git clone --depth 1 https://gitee.com/smart-assistant/version.git /tmp/version
+      run: git clone --depth 1 https://github.com/tiyicn/version.git /tmp/version
 
     - shell: bash
       env:
